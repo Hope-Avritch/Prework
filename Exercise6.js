@@ -1,3 +1,4 @@
+//Exercise 6
 console.log("true or false: wrapping in double quotes is the same as wrapping in single quotes"); True
 console.log("Hello world!" == 'Hello world!');
 

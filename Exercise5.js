@@ -1,3 +1,4 @@
+//Exercise 5
 console.log("True or false: 5 is less than 2"); False
 console.log(5 < 2);
 console.log("True or false: 19 is not equal 11"); True

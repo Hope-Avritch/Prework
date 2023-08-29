@@ -1,3 +1,4 @@
+//Exercise 7
 const a = 4;
 const b = 3; 
 let c = 2*a + b;

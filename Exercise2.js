@@ -1,4 +1,4 @@
-//exercise2
+//Exercise2
 //console.log('Hello World!');
 /*(console.log("There one was a writer of code");
 console.log('Who wanted to learn JS and node');

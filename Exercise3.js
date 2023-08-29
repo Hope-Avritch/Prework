@@ -1,4 +1,4 @@
-//Ex.3
+//Exercise 3
 console.log("This is a string, it has quotes.");
 console.log(100);
 console.log("100");
